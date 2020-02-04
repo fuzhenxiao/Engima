@@ -1,5 +1,3 @@
-Engima
-an engima code machine that can be customised
 initialize an engima machine with 3 dials, their initial positions are "S""F""G"
 
 # eng=engima('SFG')  
